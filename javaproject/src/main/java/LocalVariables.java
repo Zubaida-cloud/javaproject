@@ -5,7 +5,10 @@ public class LocalVariables {
 		
 
 	
-public
 
-int int faruq=23;
+
+ int faruq=23;
 System.out.println(faruq);
+
+	}
+}
